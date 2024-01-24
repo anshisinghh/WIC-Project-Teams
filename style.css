@@ -1,0 +1,46 @@
+/* If you want to see how different CSS elements interact with your website you can uncomment pieces of the code below and edit as it fits your website. */
+/* Resetting some default styles for better consistency */
+/* body {
+    margin: 0;
+    padding: 0;
+} */
+
+/* Setting background color for the entire page */
+/* body {
+    background-color: #f0f0f0;
+} */
+
+/* Styling the header */
+/* header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+} */
+
+/* Changing color and size of headings */
+/* h1 {
+    color: #007bff;
+    font-size: 24px;
+}
+
+h2 {
+    color: #006400;
+    font-size: 20px;
+} */
+
+/* Styling paragraphs */
+/* p {
+    color: #333;
+    font-size: 16px;
+} */
+
+/* Changing font for specific elements */
+/* .navbar {
+    font-family: 'Arial', sans-serif;
+} */
+
+/* Adding some spacing to paragraphs */
+/* p {
+    margin-bottom: 10px;
+} */
